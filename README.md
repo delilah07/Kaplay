@@ -1,2 +1,1 @@
-# Kaplay
-learning Kaplay.js , small game 
+small game with Kaplay.js library
