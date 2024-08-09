@@ -1,4 +1,4 @@
-small game with Kaplay.js library
+small game with Kaplay.js library (Kaboom)
 
 to play
 click 'space' or 'up' buttons to jump
